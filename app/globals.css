@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800&display=swap');
+
+:root {
+  --card-bg: rgba(255, 255, 255, 0.78);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: 'Nunito', 'Trebuchet MS', sans-serif;
+}
+
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid rgba(99, 180, 255, 0.6);
+  outline-offset: 2px;
+}
+
+.card-float {
+  backdrop-filter: blur(6px);
+  background: var(--card-bg);
+}
+
+.answer-enter {
+  animation: slideFade 170ms ease-out;
+}
+
+@keyframes slideFade {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,1828 @@
+{
+  "id": "minecraft",
+  "title": "Minecraft Mobs",
+  "subtitle": "Which Minecraft mob matches your vibe?",
+  "image": "🐷",
+  "traits": [
+    "brave",
+    "curious",
+    "kind",
+    "loyal",
+    "clever",
+    "calm",
+    "playful",
+    "ambitious"
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Your team is building at night in a cave.",
+      "answers": [
+        {
+          "label": "Scout first and mark the safest path",
+          "traitDeltas": {
+            "clever": 2,
+            "calm": 1
+          }
+        },
+        {
+          "label": "Light up the area and push forward",
+          "traitDeltas": {
+            "brave": 2,
+            "playful": 1
+          }
+        },
+        {
+          "label": "Stay with your close crew",
+          "traitDeltas": {
+            "loyal": 2,
+            "kind": 1
+          }
+        },
+        {
+          "label": "Ask for supplies and make a plan",
+          "traitDeltas": {
+            "curious": 1,
+            "clever": 1,
+            "ambitious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "prompt": "A villager asks for help defending crops.",
+      "answers": [
+        {
+          "label": "Build defensive fences quickly",
+          "traitDeltas": {
+            "ambitious": 2,
+            "clever": 1
+          }
+        },
+        {
+          "label": "Talk to nearby friends and organize",
+          "traitDeltas": {
+            "loyal": 2,
+            "kind": 1
+          }
+        },
+        {
+          "label": "Create a funny decoy with redstone",
+          "traitDeltas": {
+            "playful": 2,
+            "clever": 1
+          }
+        },
+        {
+          "label": "Stay calm and keep watch",
+          "traitDeltas": {
+            "calm": 2,
+            "brave": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "prompt": "You find a zombie approaching at dusk.",
+      "answers": [
+        {
+          "label": "Fight it with quick action",
+          "traitDeltas": {
+            "brave": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "label": "Use blocks to trap and contain",
+          "traitDeltas": {
+            "clever": 2,
+            "calm": 1
+          }
+        },
+        {
+          "label": "Signal teammates and help everyone",
+          "traitDeltas": {
+            "kind": 2,
+            "loyal": 1
+          }
+        },
+        {
+          "label": "Record and study its behavior",
+          "traitDeltas": {
+            "curious": 2,
+            "clever": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "prompt": "A wolf is lonely near your base.",
+      "answers": [
+        {
+          "label": "Feed and befriend it",
+          "traitDeltas": {
+            "kind": 3,
+            "loyal": 1
+          }
+        },
+        {
+          "label": "Train it for a guard role",
+          "traitDeltas": {
+            "loyal": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "label": "Watch closely before touching",
+          "traitDeltas": {
+            "calm": 2,
+            "curious": 1
+          }
+        },
+        {
+          "label": "Run around and play with it",
+          "traitDeltas": {
+            "playful": 2,
+            "curious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "prompt": "A surprise creeper is near your workbench.",
+      "answers": [
+        {
+          "label": "Try a creative defense in seconds",
+          "traitDeltas": {
+            "clever": 2,
+            "brave": 1
+          }
+        },
+        {
+          "label": "Keep calm and move everyone quickly",
+          "traitDeltas": {
+            "calm": 2,
+            "kind": 1
+          }
+        },
+        {
+          "label": "Use it as an exciting build challenge",
+          "traitDeltas": {
+            "playful": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "label": "Alert your trusted team before act",
+          "traitDeltas": {
+            "loyal": 2,
+            "calm": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "prompt": "You need to cross a swampy biome fast.",
+      "answers": [
+        {
+          "label": "Build bridges and keep moving",
+          "traitDeltas": {
+            "clever": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "label": "Find the safest path first",
+          "traitDeltas": {
+            "calm": 2,
+            "clever": 1
+          }
+        },
+        {
+          "label": "Tag-team with cat and enderman",
+          "traitDeltas": {
+            "curious": 1,
+            "loyal": 2
+          }
+        },
+        {
+          "label": "Turn it into a silly obstacle race",
+          "traitDeltas": {
+            "playful": 2,
+            "kind": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "prompt": "Your base is finished and you can choose a flag.",
+      "answers": [
+        {
+          "label": "A strong, protective emblem",
+          "traitDeltas": {
+            "brave": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "label": "A design with hidden patterns",
+          "traitDeltas": {
+            "clever": 2,
+            "curious": 1
+          }
+        },
+        {
+          "label": "A friendly symbol for guests",
+          "traitDeltas": {
+            "kind": 1
+          }
+        },
+        {
+          "label": "A bright and funny design",
+          "traitDeltas": {
+            "playful": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "prompt": "A new player asks for your advice.",
+      "answers": [
+        {
+          "label": "Give them fearless combat tips",
+          "traitDeltas": {
+            "brave": 2,
+            "clever": 1
+          }
+        },
+        {
+          "label": "Teach calm base defense basics",
+          "traitDeltas": {
+            "calm": 2,
+            "kind": 1
+          }
+        },
+        {
+          "label": "Share your trusted farm and resource plan",
+          "traitDeltas": {
+            "loyal": 2,
+            "clever": 1
+          }
+        },
+        {
+          "label": "Challenge them to a fun build contest",
+          "traitDeltas": {
+            "playful": 2,
+            "ambitious": 1
+          }
+        }
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "creeper",
+      "name": "Creeper",
+      "image": "💣",
+      "tagline": "Explosive and surprising",
+      "bio": "You bring bold energy and big surprises to moments.",
+      "weights": {
+        "brave": 3,
+        "curious": 1,
+        "kind": 0,
+        "loyal": 1,
+        "clever": 1,
+        "calm": 1,
+        "playful": 2,
+        "ambitious": 2
+      }
+    },
+    {
+      "id": "enderman",
+      "name": "Enderman",
+      "image": "👁️",
+      "tagline": "Mysterious and observant",
+      "bio": "You stay calm and study everything before acting.",
+      "weights": {
+        "brave": 1,
+        "curious": 3,
+        "kind": 0,
+        "loyal": 1,
+        "clever": 3,
+        "calm": 3,
+        "playful": 1,
+        "ambitious": 1
+      }
+    },
+    {
+      "id": "zombie",
+      "name": "Zombie",
+      "image": "🧟",
+      "tagline": "Persistent and stubborn",
+      "bio": "You are durable, steady, and unlikely to quit.",
+      "weights": {
+        "brave": 1,
+        "curious": 0,
+        "kind": 0,
+        "loyal": 1,
+        "clever": 1,
+        "calm": 2,
+        "playful": 0,
+        "ambitious": 2
+      }
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "image": "🏹",
+      "tagline": "Precise and tactical",
+      "bio": "You think in lines and plans, then carry them out.",
+      "weights": {
+        "brave": 1,
+        "curious": 1,
+        "kind": 0,
+        "loyal": 1,
+        "clever": 3,
+        "calm": 2,
+        "playful": 1,
+        "ambitious": 2
+      }
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "image": "🕷️",
+      "tagline": "Clever and alert",
+      "bio": "You are fast, curious, and good at spotting hidden paths.",
+      "weights": {
+        "brave": 1,
+        "curious": 3,
+        "kind": 0,
+        "loyal": 1,
+        "clever": 2,
+        "calm": 1,
+        "playful": 1,
+        "ambitious": 1
+      }
+    },
+    {
+      "id": "villager",
+      "name": "Villager",
+      "image": "👨‍🌾",
+      "tagline": "Helpful and social",
+      "bio": "You care about community and steady teamwork.",
+      "weights": {
+        "brave": 1,
+        "curious": 1,
+        "kind": 3,
+        "loyal": 2,
+        "clever": 1,
+        "calm": 2,
+        "playful": 1,
+        "ambitious": 1
+      }
+    },
+    {
+      "id": "wolf",
+      "name": "Wolf",
+      "image": "🐺",
+      "tagline": "Loyal and protective",
+      "bio": "You protect your allies and never abandon your pack.",
+      "weights": {
+        "brave": 2,
+        "curious": 1,
+        "kind": 2,
+        "loyal": 3,
+        "clever": 1,
+        "calm": 1,
+        "playful": 1,
+        "ambitious": 2
+      }
+    },
+    {
+      "id": "cat",
+      "name": "Cat",
+      "image": "🐈",
+      "tagline": "Curious and independent",
+      "bio": "You balance caution with playful discovery.",
+      "weights": {
+        "brave": 1,
+        "curious": 3,
+        "kind": 1,
+        "loyal": 1,
+        "clever": 2,
+        "calm": 3,
+        "playful": 2,
+        "ambitious": 1
+      }
+    },
+    {
+      "id": "iron_golem",
+      "name": "Iron Golem",
+      "image": "🛡️",
+      "tagline": "Strong and dependable",
+      "bio": "You are calm, brave, and always ready to protect.",
+      "weights": {
+        "brave": 3,
+        "curious": 0,
+        "kind": 2,
+        "loyal": 3,
+        "clever": 1,
+        "calm": 2,
+        "playful": 0,
+        "ambitious": 2
+      }
+    },
+    {
+      "id": "slime",
+      "name": "Slime",
+      "image": "🟩",
+      "tagline": "Adaptive and playful",
+      "bio": "You bounce back fast and keep the mood fun.",
+      "weights": {
+        "brave": 1,
+        "curious": 2,
+        "kind": 1,
+        "loyal": 1,
+        "clever": 1,
+        "calm": 2,
+        "playful": 3,
+        "ambitious": 1
+      }
+    }
+  ],
+  "questionSets": [
+    [
+      {
+        "id": "q1_set1",
+        "prompt": "Your server starts a new survival season and night falls before shelter is built. What do you do first?",
+        "answers": [
+          {
+            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would go first even if it feels scary and keep it playful so everyone enjoys it.",
+            "traitDeltas": {
+              "brave": 2,
+              "playful": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would ask lots of questions to find clues, think of a clever way to solve it, and set a big goal and go for it.",
+            "traitDeltas": {
+              "curious": 1,
+              "clever": 1,
+              "ambitious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q2_set1",
+        "prompt": "Two teammates disagree on whether to mine or farm first. How do you handle it?",
+        "answers": [
+          {
+            "label": "I would push for the best result we can get and use my brain to fix the problem.",
+            "traitDeltas": {
+              "ambitious": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and use my brain to fix the problem.",
+            "traitDeltas": {
+              "playful": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and protect everyone and take the lead.",
+            "traitDeltas": {
+              "calm": 2,
+              "brave": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q3_set1",
+        "prompt": "You find a strange cave with rails and old chests nearby. What is your move?",
+        "answers": [
+          {
+            "label": "I would protect everyone and take the lead and do my very best and aim high.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would choose the kindest thing to do and stick with my friends the whole time.",
+            "traitDeltas": {
+              "kind": 2,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would look closely for secret hints and make a smart plan first.",
+            "traitDeltas": {
+              "curious": 2,
+              "clever": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q4_set1",
+        "prompt": "A mini-event announces random mobs every round. How do you prepare?",
+        "answers": [
+          {
+            "label": "I would help someone who needs me and back up my team and not leave anyone out.",
+            "traitDeltas": {
+              "kind": 3,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and push for the best result we can get.",
+            "traitDeltas": {
+              "loyal": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would take a deep breath and stay calm and explore and figure out what is going on.",
+            "traitDeltas": {
+              "calm": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "traitDeltas": {
+              "playful": 2,
+              "curious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q5_set1",
+        "prompt": "A creeper appears near the storage wall during build time. What do you do?",
+        "answers": [
+          {
+            "label": "I would think of a clever way to solve it and protect everyone and take the lead.",
+            "traitDeltas": {
+              "clever": 2,
+              "brave": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and choose the kindest thing to do.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and set a big goal and go for it.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and keep things steady and think clearly.",
+            "traitDeltas": {
+              "loyal": 2,
+              "calm": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q6_set1",
+        "prompt": "A new player is nervous about their first cave run. How do you help?",
+        "answers": [
+          {
+            "label": "I would use my brain to fix the problem and do my very best and aim high.",
+            "traitDeltas": {
+              "clever": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and make a smart plan first.",
+            "traitDeltas": {
+              "calm": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and ask lots of questions to find clues.",
+            "traitDeltas": {
+              "curious": 1,
+              "loyal": 2
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and help someone who needs me.",
+            "traitDeltas": {
+              "playful": 2,
+              "kind": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q7_set1",
+        "prompt": "A bridge to the village breaks while your team carries supplies. What is your plan?",
+        "answers": [
+          {
+            "label": "I would go first even if it feels scary and push for the best result we can get.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would make a smart plan first and explore and figure out what is going on.",
+            "traitDeltas": {
+              "clever": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would help someone who needs me.",
+            "traitDeltas": {
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge.",
+            "traitDeltas": {
+              "playful": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": "q8_set1",
+        "prompt": "The final challenge rewards teams that complete objectives together. What role do you take?",
+        "answers": [
+          {
+            "label": "I would be brave and step in right away and use my brain to fix the problem.",
+            "traitDeltas": {
+              "brave": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and choose the kindest thing to do.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and use my brain to fix the problem.",
+            "traitDeltas": {
+              "loyal": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and set a big goal and go for it.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q1_set2",
+        "prompt": "At a jungle outpost, your team gets a rescue request from villagers before sunset. What is your first step?",
+        "answers": [
+          {
+            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would be brave and step in right away and add a fun idea to cheer people up.",
+            "traitDeltas": {
+              "brave": 2,
+              "playful": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would explore and figure out what is going on, use my brain to fix the problem, and do my very best and aim high.",
+            "traitDeltas": {
+              "curious": 1,
+              "clever": 1,
+              "ambitious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q2_set2",
+        "prompt": "A raid warning starts and your teammate panics at the bell. What do you do?",
+        "answers": [
+          {
+            "label": "I would set a big goal and go for it and make a smart plan first.",
+            "traitDeltas": {
+              "ambitious": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and make a smart plan first.",
+            "traitDeltas": {
+              "playful": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and go first even if it feels scary.",
+            "traitDeltas": {
+              "calm": 2,
+              "brave": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q3_set2",
+        "prompt": "You discover a hidden redstone door under the market square. What do you do?",
+        "answers": [
+          {
+            "label": "I would go first even if it feels scary and push for the best result we can get.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would help someone who needs me and back up my team and not leave anyone out.",
+            "traitDeltas": {
+              "kind": 2,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would ask lots of questions to find clues and think of a clever way to solve it.",
+            "traitDeltas": {
+              "curious": 2,
+              "clever": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q4_set2",
+        "prompt": "Your group has one hour to prepare for a snow-biome expedition. How do you plan?",
+        "answers": [
+          {
+            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "traitDeltas": {
+              "kind": 3,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and set a big goal and go for it.",
+            "traitDeltas": {
+              "loyal": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and look closely for secret hints.",
+            "traitDeltas": {
+              "calm": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "traitDeltas": {
+              "playful": 2,
+              "curious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q5_set2",
+        "prompt": "A wolf pack is circling your farm fence at dusk. What is your move?",
+        "answers": [
+          {
+            "label": "I would use my brain to fix the problem and go first even if it feels scary.",
+            "traitDeltas": {
+              "clever": 2,
+              "brave": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and help someone who needs me.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and do my very best and aim high.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and take a deep breath and stay calm.",
+            "traitDeltas": {
+              "loyal": 2,
+              "calm": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q6_set2",
+        "prompt": "Your partner gets frustrated after losing their gear in lava. How do you support them?",
+        "answers": [
+          {
+            "label": "I would make a smart plan first and push for the best result we can get.",
+            "traitDeltas": {
+              "clever": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would take a deep breath and stay calm and think of a clever way to solve it.",
+            "traitDeltas": {
+              "calm": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and explore and figure out what is going on.",
+            "traitDeltas": {
+              "curious": 1,
+              "loyal": 2
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge and be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "playful": 2,
+              "kind": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q7_set2",
+        "prompt": "A building contest changes constraints every five minutes. How do you play?",
+        "answers": [
+          {
+            "label": "I would be brave and step in right away and set a big goal and go for it.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would think of a clever way to solve it and look closely for secret hints.",
+            "traitDeltas": {
+              "clever": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it.",
+            "traitDeltas": {
+              "playful": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": "q8_set2",
+        "prompt": "Before finals, another team asks to borrow materials for defense. What do you decide?",
+        "answers": [
+          {
+            "label": "I would protect everyone and take the lead and make a smart plan first.",
+            "traitDeltas": {
+              "brave": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and help someone who needs me.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and make a smart plan first.",
+            "traitDeltas": {
+              "loyal": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and do my very best and aim high.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q1_set3",
+        "prompt": "In a taiga biome, your map markers vanish during a long trip. What do you do first?",
+        "answers": [
+          {
+            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would protect everyone and take the lead and turn it into a fun challenge.",
+            "traitDeltas": {
+              "brave": 2,
+              "playful": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would look closely for secret hints, make a smart plan first, and push for the best result we can get.",
+            "traitDeltas": {
+              "curious": 1,
+              "clever": 1,
+              "ambitious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q2_set3",
+        "prompt": "Your class server pairs you with a quiet player for a co-op quest. How do you start?",
+        "answers": [
+          {
+            "label": "I would do my very best and aim high and think of a clever way to solve it.",
+            "traitDeltas": {
+              "ambitious": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge and think of a clever way to solve it.",
+            "traitDeltas": {
+              "playful": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would take a deep breath and stay calm and be brave and step in right away.",
+            "traitDeltas": {
+              "calm": 2,
+              "brave": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q3_set3",
+        "prompt": "You find ancient ruins underwater with partial air pockets. How do you handle it?",
+        "answers": [
+          {
+            "label": "I would be brave and step in right away and set a big goal and go for it.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "traitDeltas": {
+              "kind": 2,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would explore and figure out what is going on and use my brain to fix the problem.",
+            "traitDeltas": {
+              "curious": 2,
+              "clever": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q4_set3",
+        "prompt": "A thunderstorm hits while your team is transporting villagers. What do you do?",
+        "answers": [
+          {
+            "label": "I would choose the kindest thing to do and stick with my friends the whole time.",
+            "traitDeltas": {
+              "kind": 3,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and do my very best and aim high.",
+            "traitDeltas": {
+              "loyal": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and ask lots of questions to find clues.",
+            "traitDeltas": {
+              "calm": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and ask lots of questions to find clues.",
+            "traitDeltas": {
+              "playful": 2,
+              "curious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q5_set3",
+        "prompt": "An iron golem is damaged and hostile mobs are approaching. What is your plan?",
+        "answers": [
+          {
+            "label": "I would make a smart plan first and be brave and step in right away.",
+            "traitDeltas": {
+              "clever": 2,
+              "brave": 1
+            }
+          },
+          {
+            "label": "I would take a deep breath and stay calm and be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge and push for the best result we can get.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and slow down so nobody panics.",
+            "traitDeltas": {
+              "loyal": 2,
+              "calm": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q6_set3",
+        "prompt": "Your teammate freezes during a timed parkour segment. How do you help?",
+        "answers": [
+          {
+            "label": "I would think of a clever way to solve it and set a big goal and go for it.",
+            "traitDeltas": {
+              "clever": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and use my brain to fix the problem.",
+            "traitDeltas": {
+              "calm": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and look closely for secret hints.",
+            "traitDeltas": {
+              "curious": 1,
+              "loyal": 2
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and choose the kindest thing to do.",
+            "traitDeltas": {
+              "playful": 2,
+              "kind": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q7_set3",
+        "prompt": "A redstone farm stops working right before harvest. What do you focus on?",
+        "answers": [
+          {
+            "label": "I would protect everyone and take the lead and do my very best and aim high.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would use my brain to fix the problem and ask lots of questions to find clues.",
+            "traitDeltas": {
+              "clever": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would choose the kindest thing to do.",
+            "traitDeltas": {
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up.",
+            "traitDeltas": {
+              "playful": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": "q8_set3",
+        "prompt": "The final mission lets you choose one contribution to help the whole team win. Which do you choose?",
+        "answers": [
+          {
+            "label": "I would go first even if it feels scary and think of a clever way to solve it.",
+            "traitDeltas": {
+              "brave": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would take a deep breath and stay calm and be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and think of a clever way to solve it.",
+            "traitDeltas": {
+              "loyal": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge and push for the best result we can get.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q1_set4",
+        "prompt": "At an ocean monument camp, your squad gets one mystery objective card. What is your first action?",
+        "answers": [
+          {
+            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would go first even if it feels scary and keep it playful so everyone enjoys it.",
+            "traitDeltas": {
+              "brave": 2,
+              "playful": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would ask lots of questions to find clues, think of a clever way to solve it, and set a big goal and go for it.",
+            "traitDeltas": {
+              "curious": 1,
+              "clever": 1,
+              "ambitious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q2_set4",
+        "prompt": "A younger player must lead today's exploration route and is unsure. How do you support them?",
+        "answers": [
+          {
+            "label": "I would push for the best result we can get and use my brain to fix the problem.",
+            "traitDeltas": {
+              "ambitious": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and use my brain to fix the problem.",
+            "traitDeltas": {
+              "playful": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and protect everyone and take the lead.",
+            "traitDeltas": {
+              "calm": 2,
+              "brave": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q3_set4",
+        "prompt": "You hear endermen sounds near the storage cave at night. What do you do?",
+        "answers": [
+          {
+            "label": "I would protect everyone and take the lead and do my very best and aim high.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would choose the kindest thing to do and stick with my friends the whole time.",
+            "traitDeltas": {
+              "kind": 2,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would look closely for secret hints and make a smart plan first.",
+            "traitDeltas": {
+              "curious": 2,
+              "clever": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q4_set4",
+        "prompt": "Your team needs a safer transport system for long-distance supplies. What approach do you pick?",
+        "answers": [
+          {
+            "label": "I would help someone who needs me and back up my team and not leave anyone out.",
+            "traitDeltas": {
+              "kind": 3,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and push for the best result we can get.",
+            "traitDeltas": {
+              "loyal": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would take a deep breath and stay calm and explore and figure out what is going on.",
+            "traitDeltas": {
+              "calm": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "traitDeltas": {
+              "playful": 2,
+              "curious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q5_set4",
+        "prompt": "A slime swarm blocks the tunnel to your main base. What is your move?",
+        "answers": [
+          {
+            "label": "I would think of a clever way to solve it and protect everyone and take the lead.",
+            "traitDeltas": {
+              "clever": 2,
+              "brave": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and choose the kindest thing to do.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and set a big goal and go for it.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and keep things steady and think clearly.",
+            "traitDeltas": {
+              "loyal": 2,
+              "calm": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q6_set4",
+        "prompt": "Your friend feels overwhelmed by too many tasks during raid prep. How do you help?",
+        "answers": [
+          {
+            "label": "I would use my brain to fix the problem and do my very best and aim high.",
+            "traitDeltas": {
+              "clever": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and make a smart plan first.",
+            "traitDeltas": {
+              "calm": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and ask lots of questions to find clues.",
+            "traitDeltas": {
+              "curious": 1,
+              "loyal": 2
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and help someone who needs me.",
+            "traitDeltas": {
+              "playful": 2,
+              "kind": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q7_set4",
+        "prompt": "A weekend challenge rewards players who adapt fastest to rule changes. How do you play?",
+        "answers": [
+          {
+            "label": "I would go first even if it feels scary and push for the best result we can get.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would make a smart plan first and explore and figure out what is going on.",
+            "traitDeltas": {
+              "clever": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would help someone who needs me.",
+            "traitDeltas": {
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge.",
+            "traitDeltas": {
+              "playful": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": "q8_set4",
+        "prompt": "For the final beacon run, everyone must cross together. What role do you take?",
+        "answers": [
+          {
+            "label": "I would be brave and step in right away and use my brain to fix the problem.",
+            "traitDeltas": {
+              "brave": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and choose the kindest thing to do.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and use my brain to fix the problem.",
+            "traitDeltas": {
+              "loyal": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and set a big goal and go for it.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q1_set5",
+        "prompt": "A brand-new realm opens and your squad has one hour to set up a safe starter town. What do you do first?",
+        "answers": [
+          {
+            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would be brave and step in right away and add a fun idea to cheer people up.",
+            "traitDeltas": {
+              "brave": 2,
+              "playful": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would explore and figure out what is going on, use my brain to fix the problem, and do my very best and aim high.",
+            "traitDeltas": {
+              "curious": 1,
+              "clever": 1,
+              "ambitious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q2_set5",
+        "prompt": "Your group runs a beginner workshop for new players this afternoon. How do you organize it?",
+        "answers": [
+          {
+            "label": "I would set a big goal and go for it and make a smart plan first.",
+            "traitDeltas": {
+              "ambitious": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "traitDeltas": {
+              "loyal": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and make a smart plan first.",
+            "traitDeltas": {
+              "playful": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and go first even if it feels scary.",
+            "traitDeltas": {
+              "calm": 2,
+              "brave": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q3_set5",
+        "prompt": "A rumor says there is a trapped villager in the mesa canyons. How do you respond?",
+        "answers": [
+          {
+            "label": "I would go first even if it feels scary and push for the best result we can get.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "traitDeltas": {
+              "clever": 2,
+              "calm": 1
+            }
+          },
+          {
+            "label": "I would help someone who needs me and back up my team and not leave anyone out.",
+            "traitDeltas": {
+              "kind": 2,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would ask lots of questions to find clues and think of a clever way to solve it.",
+            "traitDeltas": {
+              "curious": 2,
+              "clever": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q4_set5",
+        "prompt": "A scavenger race across biomes rewards teamwork and creativity. What strategy do you use?",
+        "answers": [
+          {
+            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "traitDeltas": {
+              "kind": 3,
+              "loyal": 1
+            }
+          },
+          {
+            "label": "I would back up my team and not leave anyone out and set a big goal and go for it.",
+            "traitDeltas": {
+              "loyal": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would slow down so nobody panics and look closely for secret hints.",
+            "traitDeltas": {
+              "calm": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "traitDeltas": {
+              "playful": 2,
+              "curious": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q5_set5",
+        "prompt": "A lava leak starts near your animal pens during feeding. What do you do?",
+        "answers": [
+          {
+            "label": "I would use my brain to fix the problem and go first even if it feels scary.",
+            "traitDeltas": {
+              "clever": 2,
+              "brave": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and help someone who needs me.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and do my very best and aim high.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and take a deep breath and stay calm.",
+            "traitDeltas": {
+              "loyal": 2,
+              "calm": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q6_set5",
+        "prompt": "A junior player asks for coaching before their first nether run. How do you help?",
+        "answers": [
+          {
+            "label": "I would make a smart plan first and push for the best result we can get.",
+            "traitDeltas": {
+              "clever": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would take a deep breath and stay calm and think of a clever way to solve it.",
+            "traitDeltas": {
+              "calm": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would stick with my friends the whole time and explore and figure out what is going on.",
+            "traitDeltas": {
+              "curious": 1,
+              "loyal": 2
+            }
+          },
+          {
+            "label": "I would turn it into a fun challenge and be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "playful": 2,
+              "kind": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "q7_set5",
+        "prompt": "Your team has limited materials for the final fortress defense. What do you prioritize?",
+        "answers": [
+          {
+            "label": "I would be brave and step in right away and set a big goal and go for it.",
+            "traitDeltas": {
+              "brave": 2,
+              "ambitious": 1
+            }
+          },
+          {
+            "label": "I would think of a clever way to solve it and look closely for secret hints.",
+            "traitDeltas": {
+              "clever": 2,
+              "curious": 1
+            }
+          },
+          {
+            "label": "I would be gentle and make sure everyone is okay.",
+            "traitDeltas": {
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would keep it playful so everyone enjoys it.",
+            "traitDeltas": {
+              "playful": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": "q8_set5",
+        "prompt": "At the closing celebration, each player chooses one way to keep the community strong. What do you pick?",
+        "answers": [
+          {
+            "label": "I would protect everyone and take the lead and make a smart plan first.",
+            "traitDeltas": {
+              "brave": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would keep things steady and think clearly and help someone who needs me.",
+            "traitDeltas": {
+              "calm": 2,
+              "kind": 1
+            }
+          },
+          {
+            "label": "I would stay by my team and help them finish and make a smart plan first.",
+            "traitDeltas": {
+              "loyal": 2,
+              "clever": 1
+            }
+          },
+          {
+            "label": "I would add a fun idea to cheer people up and do my very best and aim high.",
+            "traitDeltas": {
+              "playful": 2,
+              "ambitious": 1
+            }
+          }
+        ]
+      }
+    ]
+  ]
+}
