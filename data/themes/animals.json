@@ -19,28 +19,28 @@
       "prompt": "You find a new playground. Where do you go first?",
       "answers": [
         {
-          "label": "Try every piece at once",
+          "label": "I make it fun and look for clues.",
           "traitDeltas": {
             "playful": 2,
             "curious": 1
           }
         },
         {
-          "label": "Find a friend and go together",
+          "label": "I stay with my team and am kind.",
           "traitDeltas": {
             "loyal": 2,
             "kind": 1
           }
         },
         {
-          "label": "Check where it's safe",
+          "label": "I stay calm and think it through.",
           "traitDeltas": {
             "calm": 2,
             "clever": 1
           }
         },
         {
-          "label": "Start a game that leads to the highest jump",
+          "label": "I do my best and am brave.",
           "traitDeltas": {
             "ambitious": 2,
             "brave": 1
@@ -53,28 +53,28 @@
       "prompt": "An animal in your storybook gets lost.",
       "answers": [
         {
-          "label": "Go search it with courage",
+          "label": "I protect others and ask questions.",
           "traitDeltas": {
             "brave": 2,
             "curious": 1
           }
         },
         {
-          "label": "Draw a map and follow clues",
+          "label": "I solve it smartly and stay calm.",
           "traitDeltas": {
             "clever": 2,
             "calm": 1
           }
         },
         {
-          "label": "Ask for help from others",
+          "label": "I check on friends and stay with my team.",
           "traitDeltas": {
             "kind": 2,
             "loyal": 1
           }
         },
         {
-          "label": "Create a fun song about its trail",
+          "label": "I cheer everyone up and help others.",
           "traitDeltas": {
             "playful": 2,
             "kind": 1
@@ -87,28 +87,28 @@
       "prompt": "You get one free morning at a wildlife center.",
       "answers": [
         {
-          "label": "Meet as many creatures as possible",
+          "label": "I look for clues and cheer everyone up.",
           "traitDeltas": {
             "curious": 2,
             "playful": 1
           }
         },
         {
-          "label": "Volunteer with patient care",
+          "label": "I am kind and keep things steady.",
           "traitDeltas": {
             "kind": 2,
             "calm": 1
           }
         },
         {
-          "label": "Stick with your favorite animal",
+          "label": "I back my friends and check on friends.",
           "traitDeltas": {
             "loyal": 2,
             "kind": 1
           }
         },
         {
-          "label": "Study each habitat and take notes",
+          "label": "I think it through and go for a big win.",
           "traitDeltas": {
             "clever": 2,
             "ambitious": 1
@@ -121,28 +121,28 @@
       "prompt": "You see someone being unkind to a classmate.",
       "answers": [
         {
-          "label": "Stand up gently and defend them",
+          "label": "I go first and back my friends.",
           "traitDeltas": {
             "brave": 2,
             "loyal": 1
           }
         },
         {
-          "label": "Offer comfort to your classmate",
+          "label": "I help others and take a deep breath.",
           "traitDeltas": {
             "kind": 3,
             "calm": 1
           }
         },
         {
-          "label": "Call an adult and mediate",
+          "label": "I make a smart plan and take a deep breath.",
           "traitDeltas": {
             "clever": 2,
             "calm": 1
           }
         },
         {
-          "label": "Ignore and choose another group",
+          "label": "I ask questions and keep it playful.",
           "traitDeltas": {
             "curious": 1,
             "playful": 1
@@ -155,28 +155,28 @@
       "prompt": "Your team is doing a group science task.",
       "answers": [
         {
-          "label": "Lead with confident direction",
+          "label": "I go for a big win and go first.",
           "traitDeltas": {
             "ambitious": 2,
             "brave": 1
           }
         },
         {
-          "label": "Look up how others did it before",
+          "label": "I solve it smartly and stay calm.",
           "traitDeltas": {
             "clever": 2,
             "calm": 1
           }
         },
         {
-          "label": "Make sure everyone has a role",
+          "label": "I check on friends and stay with my team.",
           "traitDeltas": {
             "kind": 2,
             "loyal": 1
           }
         },
         {
-          "label": "Turn it into a game for laughs",
+          "label": "I cheer everyone up and ask questions.",
           "traitDeltas": {
             "playful": 2,
             "curious": 1
@@ -189,28 +189,28 @@
       "prompt": "You hear a strange noise at night.",
       "answers": [
         {
-          "label": "Investigate with a flashlight",
+          "label": "I look for clues and protect others.",
           "traitDeltas": {
             "curious": 2,
             "brave": 1
           }
         },
         {
-          "label": "Check windows and make a safe plan",
+          "label": "I think it through and keep things steady.",
           "traitDeltas": {
             "clever": 2,
             "calm": 1
           }
         },
         {
-          "label": "Tell your family and stay together",
+          "label": "I back my friends and check on friends.",
           "traitDeltas": {
             "loyal": 2,
             "kind": 1
           }
         },
         {
-          "label": "Create a dramatic story about it",
+          "label": "I keep it playful and explore first.",
           "traitDeltas": {
             "playful": 2,
             "curious": 1
@@ -223,28 +223,28 @@
       "prompt": "You find an old toy boat by the river.",
       "answers": [
         {
-          "label": "Try to build a better one",
+          "label": "I make a smart plan and aim high.",
           "traitDeltas": {
             "clever": 2,
             "ambitious": 1
           }
         },
         {
-          "label": "Test it in the water",
+          "label": "I make it fun and look for clues.",
           "traitDeltas": {
             "playful": 2,
             "curious": 1
           }
         },
         {
-          "label": "Find its owner and return it",
+          "label": "I help others and back my friends.",
           "traitDeltas": {
             "kind": 2,
             "loyal": 1
           }
         },
         {
-          "label": "Paint it and celebrate with friends",
+          "label": "I make it fun and am kind.",
           "traitDeltas": {
             "kind": 1,
             "playful": 2
@@ -257,28 +257,28 @@
       "prompt": "You are asked to perform at a school event.",
       "answers": [
         {
-          "label": "Perform with energy and confidence",
+          "label": "I protect others and make it fun.",
           "traitDeltas": {
             "brave": 2,
             "playful": 1
           }
         },
         {
-          "label": "Rehearse quietly until perfect",
+          "label": "I keep things steady and make a smart plan.",
           "traitDeltas": {
             "calm": 2,
             "clever": 1
           }
         },
         {
-          "label": "Ask friends to perform with you",
+          "label": "I do not leave anyone and help others.",
           "traitDeltas": {
             "loyal": 2,
             "kind": 1
           }
         },
         {
-          "label": "Create a unique idea that stands out",
+          "label": "I go for a big win and ask questions.",
           "traitDeltas": {
             "ambitious": 2,
             "curious": 1
@@ -466,28 +466,28 @@
         "prompt": "Your class volunteers at a wildlife park and the morning tasks are assigned. What do you pick first?",
         "answers": [
           {
-            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "label": "I make it fun and look for clues.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "label": "I do not leave anyone and help others.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would take a deep breath and stay calm and think of a clever way to solve it.",
+            "label": "I take a deep breath and solve it smartly.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would do my very best and aim high and be brave and step in right away.",
+            "label": "I do my best and am brave.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
@@ -500,28 +500,28 @@
         "prompt": "A lost puppy appears near the school gate during rain. What do you do?",
         "answers": [
           {
-            "label": "I would be brave and step in right away and look closely for secret hints.",
+            "label": "I protect others and ask questions.",
             "traitDeltas": {
               "brave": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "label": "I think it through and keep things steady.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "label": "I help others and back my friends.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and choose the kindest thing to do.",
+            "label": "I cheer everyone up and help others.",
             "traitDeltas": {
               "playful": 2,
               "kind": 1
@@ -534,28 +534,28 @@
         "prompt": "You find unusual tracks near the river trail on a field trip. How do you react?",
         "answers": [
           {
-            "label": "I would look closely for secret hints and turn it into a fun challenge.",
+            "label": "I look for clues and cheer everyone up.",
             "traitDeltas": {
               "curious": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would choose the kindest thing to do and take a deep breath and stay calm.",
+            "label": "I help others and take a deep breath.",
             "traitDeltas": {
               "kind": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "label": "I do not leave anyone and help others.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and do my very best and aim high.",
+            "label": "I think it through and go for a big win.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
@@ -568,28 +568,28 @@
         "prompt": "Your group must design a safe habitat model for science fair. What is your approach?",
         "answers": [
           {
-            "label": "I would go first even if it feels scary and back up my team and not leave anyone out.",
+            "label": "I go first and back my friends.",
             "traitDeltas": {
               "brave": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would help someone who needs me and slow down so nobody panics.",
+            "label": "I check on friends and stay calm.",
             "traitDeltas": {
               "kind": 3,
               "calm": 1
             }
           },
           {
-            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "label": "I think it through and keep things steady.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would ask lots of questions to find clues and keep it playful so everyone enjoys it.",
+            "label": "I ask questions and keep it playful.",
             "traitDeltas": {
               "curious": 1,
               "playful": 1
@@ -602,28 +602,28 @@
         "prompt": "A baby bird falls from a low branch during recess. What is your move?",
         "answers": [
           {
-            "label": "I would push for the best result we can get and protect everyone and take the lead.",
+            "label": "I go for a big win and go first.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "label": "I think it through and keep things steady.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "label": "I help others and back my friends.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "label": "I cheer everyone up and ask questions.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -636,28 +636,28 @@
         "prompt": "Your friend is scared to present their animal poster. How do you help?",
         "answers": [
           {
-            "label": "I would look closely for secret hints and go first even if it feels scary.",
+            "label": "I look for clues and protect others.",
             "traitDeltas": {
               "curious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "label": "I make a smart plan and take a deep breath.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "label": "I do not leave anyone and help others.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would add a fun idea to cheer people up and ask lots of questions to find clues.",
+            "label": "I keep it playful and explore first.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -670,28 +670,28 @@
         "prompt": "A storm warning interrupts your nature hike halfway through. What do you do?",
         "answers": [
           {
-            "label": "I would make a smart plan first and push for the best result we can get.",
+            "label": "I make a smart plan and aim high.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
             }
           },
           {
-            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "label": "I cheer everyone up and ask questions.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would help someone who needs me and back up my team and not leave anyone out.",
+            "label": "I am kind and do not leave anyone.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would turn it into a fun challenge and be gentle and make sure everyone is okay.",
+            "label": "I make it fun and am kind.",
             "traitDeltas": {
               "kind": 1,
               "playful": 2
@@ -704,28 +704,28 @@
         "prompt": "You can earn a team badge by helping everyone finish an eco challenge. Which role do you take?",
         "answers": [
           {
-            "label": "I would be brave and step in right away and add a fun idea to cheer people up.",
+            "label": "I protect others and make it fun.",
             "traitDeltas": {
               "brave": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would slow down so nobody panics and use my brain to fix the problem.",
+            "label": "I take a deep breath and solve it smartly.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "label": "I stay with my team and am kind.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would push for the best result we can get and look closely for secret hints.",
+            "label": "I go for a big win and ask questions.",
             "traitDeltas": {
               "ambitious": 2,
               "curious": 1
@@ -740,28 +740,28 @@
         "prompt": "At an aquarium visit, your team gets one mystery rescue mission card. What is your first step?",
         "answers": [
           {
-            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "label": "I keep it playful and explore first.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "label": "I stay with my team and am kind.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would slow down so nobody panics and use my brain to fix the problem.",
+            "label": "I keep things steady and make a smart plan.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would push for the best result we can get and protect everyone and take the lead.",
+            "label": "I aim high and protect others.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
@@ -774,28 +774,28 @@
         "prompt": "Two classmates argue over how to build the pet-care station. What do you do?",
         "answers": [
           {
-            "label": "I would protect everyone and take the lead and ask lots of questions to find clues.",
+            "label": "I go first and look for clues.",
             "traitDeltas": {
               "brave": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "label": "I solve it smartly and stay calm.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would choose the kindest thing to do and stick with my friends the whole time.",
+            "label": "I am kind and do not leave anyone.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would add a fun idea to cheer people up and help someone who needs me.",
+            "label": "I make it fun and am kind.",
             "traitDeltas": {
               "playful": 2,
               "kind": 1
@@ -808,28 +808,28 @@
         "prompt": "You spot a fox near the campsite food bins at dusk. How do you handle it?",
         "answers": [
           {
-            "label": "I would ask lots of questions to find clues and keep it playful so everyone enjoys it.",
+            "label": "I explore first and make it fun.",
             "traitDeltas": {
               "curious": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would help someone who needs me and slow down so nobody panics.",
+            "label": "I am kind and keep things steady.",
             "traitDeltas": {
               "kind": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "label": "I stay with my team and am kind.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would make a smart plan first and push for the best result we can get.",
+            "label": "I solve it smartly and do my best.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
@@ -842,28 +842,28 @@
         "prompt": "A school kindness game asks each team to support younger kids. How do you lead?",
         "answers": [
           {
-            "label": "I would be brave and step in right away and stay by my team and help them finish.",
+            "label": "I am brave and do not leave anyone.",
             "traitDeltas": {
               "brave": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and keep things steady and think clearly.",
+            "label": "I help others and take a deep breath.",
             "traitDeltas": {
               "kind": 3,
               "calm": 1
             }
           },
           {
-            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "label": "I solve it smartly and stay calm.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would explore and figure out what is going on and add a fun idea to cheer people up.",
+            "label": "I look for clues and cheer everyone up.",
             "traitDeltas": {
               "curious": 1,
               "playful": 1
@@ -876,28 +876,28 @@
         "prompt": "You find an injured butterfly in the garden maze. What is your plan?",
         "answers": [
           {
-            "label": "I would set a big goal and go for it and go first even if it feels scary.",
+            "label": "I do my best and am brave.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "label": "I solve it smartly and stay calm.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would choose the kindest thing to do and stick with my friends the whole time.",
+            "label": "I am kind and do not leave anyone.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would add a fun idea to cheer people up and ask lots of questions to find clues.",
+            "label": "I make it fun and look for clues.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -910,28 +910,28 @@
         "prompt": "Your teammate freezes during a timed obstacle course. What do you do?",
         "answers": [
           {
-            "label": "I would ask lots of questions to find clues and be brave and step in right away.",
+            "label": "I explore first and go first.",
             "traitDeltas": {
               "curious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "label": "I think it through and keep things steady.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "label": "I stay with my team and am kind.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "label": "I cheer everyone up and ask questions.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -944,28 +944,28 @@
         "prompt": "A farm visit challenge asks you to improve feeding time safely. What is your idea?",
         "answers": [
           {
-            "label": "I would think of a clever way to solve it and set a big goal and go for it.",
+            "label": "I think it through and go for a big win.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "label": "I make it fun and look for clues.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "label": "I check on friends and stay with my team.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and choose the kindest thing to do.",
+            "label": "I keep it playful and check on friends.",
             "traitDeltas": {
               "kind": 1,
               "playful": 2
@@ -978,28 +978,28 @@
         "prompt": "Before the final whistle, another team asks to borrow your tools. What do you decide?",
         "answers": [
           {
-            "label": "I would protect everyone and take the lead and turn it into a fun challenge.",
+            "label": "I go first and keep it playful.",
             "traitDeltas": {
               "brave": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would keep things steady and think clearly and make a smart plan first.",
+            "label": "I keep things steady and make a smart plan.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "label": "I back my friends and check on friends.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would set a big goal and go for it and ask lots of questions to find clues.",
+            "label": "I do my best and look for clues.",
             "traitDeltas": {
               "ambitious": 2,
               "curious": 1
@@ -1014,28 +1014,28 @@
         "prompt": "At a snowy nature camp, your group wakes to tracks around the tents. What do you do first?",
         "answers": [
           {
-            "label": "I would add a fun idea to cheer people up and ask lots of questions to find clues.",
+            "label": "I cheer everyone up and ask questions.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "label": "I back my friends and check on friends.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would keep things steady and think clearly and make a smart plan first.",
+            "label": "I stay calm and think it through.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would set a big goal and go for it and go first even if it feels scary.",
+            "label": "I go for a big win and go first.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
@@ -1048,28 +1048,28 @@
         "prompt": "A class project pairs you with a new student who feels left out. How do you start?",
         "answers": [
           {
-            "label": "I would go first even if it feels scary and explore and figure out what is going on.",
+            "label": "I am brave and explore first.",
             "traitDeltas": {
               "brave": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "label": "I make a smart plan and take a deep breath.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would help someone who needs me and back up my team and not leave anyone out.",
+            "label": "I check on friends and stay with my team.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would turn it into a fun challenge and be gentle and make sure everyone is okay.",
+            "label": "I keep it playful and check on friends.",
             "traitDeltas": {
               "playful": 2,
               "kind": 1
@@ -1082,28 +1082,28 @@
         "prompt": "You are given one hour to explore tide pools and report discoveries. How do you approach it?",
         "answers": [
           {
-            "label": "I would explore and figure out what is going on and add a fun idea to cheer people up.",
+            "label": "I ask questions and keep it playful.",
             "traitDeltas": {
               "curious": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and keep things steady and think clearly.",
+            "label": "I check on friends and stay calm.",
             "traitDeltas": {
               "kind": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "label": "I back my friends and check on friends.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would think of a clever way to solve it and set a big goal and go for it.",
+            "label": "I make a smart plan and aim high.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
@@ -1116,28 +1116,28 @@
         "prompt": "Your team needs a plan to keep everyone calm during a loud thunderstorm drill. What do you suggest?",
         "answers": [
           {
-            "label": "I would protect everyone and take the lead and stick with my friends the whole time.",
+            "label": "I protect others and stay with my team.",
             "traitDeltas": {
               "brave": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would choose the kindest thing to do and take a deep breath and stay calm.",
+            "label": "I am kind and keep things steady.",
             "traitDeltas": {
               "kind": 3,
               "calm": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "label": "I make a smart plan and take a deep breath.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would look closely for secret hints and turn it into a fun challenge.",
+            "label": "I explore first and make it fun.",
             "traitDeltas": {
               "curious": 1,
               "playful": 1
@@ -1150,28 +1150,28 @@
         "prompt": "A rabbit escapes its pen at a school pet day. What is your move?",
         "answers": [
           {
-            "label": "I would do my very best and aim high and be brave and step in right away.",
+            "label": "I aim high and protect others.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "label": "I make a smart plan and take a deep breath.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would help someone who needs me and back up my team and not leave anyone out.",
+            "label": "I check on friends and stay with my team.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "label": "I keep it playful and explore first.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -1184,28 +1184,28 @@
         "prompt": "Your friend is upset because their habitat model broke. How do you help?",
         "answers": [
           {
-            "label": "I would explore and figure out what is going on and protect everyone and take the lead.",
+            "label": "I ask questions and am brave.",
             "traitDeltas": {
               "curious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "label": "I solve it smartly and stay calm.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "label": "I back my friends and check on friends.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "label": "I make it fun and look for clues.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -1218,28 +1218,28 @@
         "prompt": "A trail sign is missing and younger kids are confused about where to go. What do you do?",
         "answers": [
           {
-            "label": "I would use my brain to fix the problem and do my very best and aim high.",
+            "label": "I solve it smartly and do my best.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
             }
           },
           {
-            "label": "I would add a fun idea to cheer people up and ask lots of questions to find clues.",
+            "label": "I keep it playful and explore first.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would choose the kindest thing to do and stick with my friends the whole time.",
+            "label": "I help others and back my friends.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would add a fun idea to cheer people up and help someone who needs me.",
+            "label": "I cheer everyone up and help others.",
             "traitDeltas": {
               "kind": 1,
               "playful": 2
@@ -1252,28 +1252,28 @@
         "prompt": "The final activity lets you choose one way to help the whole group shine. Which do you choose?",
         "answers": [
           {
-            "label": "I would go first even if it feels scary and keep it playful so everyone enjoys it.",
+            "label": "I am brave and cheer everyone up.",
             "traitDeltas": {
               "brave": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would take a deep breath and stay calm and think of a clever way to solve it.",
+            "label": "I stay calm and think it through.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "label": "I do not leave anyone and help others.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would do my very best and aim high and explore and figure out what is going on.",
+            "label": "I aim high and explore first.",
             "traitDeltas": {
               "ambitious": 2,
               "curious": 1
@@ -1288,28 +1288,28 @@
         "prompt": "At a night safari camp, your group hears rustling near supplies. What is your first action?",
         "answers": [
           {
-            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "label": "I make it fun and look for clues.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "label": "I do not leave anyone and help others.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would take a deep breath and stay calm and think of a clever way to solve it.",
+            "label": "I take a deep breath and solve it smartly.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would do my very best and aim high and be brave and step in right away.",
+            "label": "I do my best and am brave.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
@@ -1322,28 +1322,28 @@
         "prompt": "A shy classmate must lead today's animal quiz round. How do you support them?",
         "answers": [
           {
-            "label": "I would be brave and step in right away and look closely for secret hints.",
+            "label": "I protect others and ask questions.",
             "traitDeltas": {
               "brave": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "label": "I think it through and keep things steady.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "label": "I help others and back my friends.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and choose the kindest thing to do.",
+            "label": "I cheer everyone up and help others.",
             "traitDeltas": {
               "playful": 2,
               "kind": 1
@@ -1356,28 +1356,28 @@
         "prompt": "You discover a hidden owl nest route on a map challenge. What do you do?",
         "answers": [
           {
-            "label": "I would look closely for secret hints and turn it into a fun challenge.",
+            "label": "I look for clues and cheer everyone up.",
             "traitDeltas": {
               "curious": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would choose the kindest thing to do and take a deep breath and stay calm.",
+            "label": "I help others and take a deep breath.",
             "traitDeltas": {
               "kind": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "label": "I do not leave anyone and help others.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and do my very best and aim high.",
+            "label": "I think it through and go for a big win.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
@@ -1390,28 +1390,28 @@
         "prompt": "Your team has to build the fastest clean-up system after feeding time. What approach do you pick?",
         "answers": [
           {
-            "label": "I would go first even if it feels scary and back up my team and not leave anyone out.",
+            "label": "I go first and back my friends.",
             "traitDeltas": {
               "brave": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would help someone who needs me and slow down so nobody panics.",
+            "label": "I check on friends and stay calm.",
             "traitDeltas": {
               "kind": 3,
               "calm": 1
             }
           },
           {
-            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "label": "I think it through and keep things steady.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would ask lots of questions to find clues and keep it playful so everyone enjoys it.",
+            "label": "I ask questions and keep it playful.",
             "traitDeltas": {
               "curious": 1,
               "playful": 1
@@ -1424,28 +1424,28 @@
         "prompt": "A turtle is blocking the bike path and people are crowding around. What is your plan?",
         "answers": [
           {
-            "label": "I would push for the best result we can get and protect everyone and take the lead.",
+            "label": "I go for a big win and go first.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "label": "I think it through and keep things steady.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "label": "I help others and back my friends.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "label": "I cheer everyone up and ask questions.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -1458,28 +1458,28 @@
         "prompt": "Your partner gets overwhelmed by too many tasks at once. How do you help?",
         "answers": [
           {
-            "label": "I would look closely for secret hints and go first even if it feels scary.",
+            "label": "I look for clues and protect others.",
             "traitDeltas": {
               "curious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "label": "I make a smart plan and take a deep breath.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "label": "I do not leave anyone and help others.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would add a fun idea to cheer people up and ask lots of questions to find clues.",
+            "label": "I keep it playful and explore first.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -1492,28 +1492,28 @@
         "prompt": "A weekend fair game rewards teams that adapt quickly to changes. How do you play?",
         "answers": [
           {
-            "label": "I would make a smart plan first and push for the best result we can get.",
+            "label": "I make a smart plan and aim high.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
             }
           },
           {
-            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "label": "I cheer everyone up and ask questions.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would help someone who needs me and back up my team and not leave anyone out.",
+            "label": "I am kind and do not leave anyone.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would turn it into a fun challenge and be gentle and make sure everyone is okay.",
+            "label": "I make it fun and am kind.",
             "traitDeltas": {
               "kind": 1,
               "playful": 2
@@ -1526,28 +1526,28 @@
         "prompt": "For the final team photo mission, everyone needs to finish together. What role do you take?",
         "answers": [
           {
-            "label": "I would be brave and step in right away and add a fun idea to cheer people up.",
+            "label": "I protect others and make it fun.",
             "traitDeltas": {
               "brave": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would slow down so nobody panics and use my brain to fix the problem.",
+            "label": "I take a deep breath and solve it smartly.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "label": "I stay with my team and am kind.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would push for the best result we can get and look closely for secret hints.",
+            "label": "I go for a big win and ask questions.",
             "traitDeltas": {
               "ambitious": 2,
               "curious": 1
@@ -1562,28 +1562,28 @@
         "prompt": "At a forest story camp, each group gets a mystery envelope with an animal challenge. What do you do first?",
         "answers": [
           {
-            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "label": "I keep it playful and explore first.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would back up my team and not leave anyone out and choose the kindest thing to do.",
+            "label": "I stay with my team and am kind.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would slow down so nobody panics and use my brain to fix the problem.",
+            "label": "I keep things steady and make a smart plan.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would push for the best result we can get and protect everyone and take the lead.",
+            "label": "I aim high and protect others.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
@@ -1596,28 +1596,28 @@
         "prompt": "Your team has one hour to run a mini shelter for rescued pets. How do you organize it?",
         "answers": [
           {
-            "label": "I would protect everyone and take the lead and ask lots of questions to find clues.",
+            "label": "I go first and look for clues.",
             "traitDeltas": {
               "brave": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "label": "I solve it smartly and stay calm.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would choose the kindest thing to do and stick with my friends the whole time.",
+            "label": "I am kind and do not leave anyone.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would add a fun idea to cheer people up and help someone who needs me.",
+            "label": "I make it fun and am kind.",
             "traitDeltas": {
               "playful": 2,
               "kind": 1
@@ -1630,28 +1630,28 @@
         "prompt": "You notice unusual sounds coming from the greenhouse during cleanup. How do you respond?",
         "answers": [
           {
-            "label": "I would ask lots of questions to find clues and keep it playful so everyone enjoys it.",
+            "label": "I explore first and make it fun.",
             "traitDeltas": {
               "curious": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would help someone who needs me and slow down so nobody panics.",
+            "label": "I am kind and keep things steady.",
             "traitDeltas": {
               "kind": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "label": "I stay with my team and am kind.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would make a smart plan first and push for the best result we can get.",
+            "label": "I solve it smartly and do my best.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
@@ -1664,28 +1664,28 @@
         "prompt": "A scavenger hunt in the park rewards creativity and planning. What strategy do you use?",
         "answers": [
           {
-            "label": "I would be brave and step in right away and stay by my team and help them finish.",
+            "label": "I am brave and do not leave anyone.",
             "traitDeltas": {
               "brave": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and keep things steady and think clearly.",
+            "label": "I help others and take a deep breath.",
             "traitDeltas": {
               "kind": 3,
               "calm": 1
             }
           },
           {
-            "label": "I would think of a clever way to solve it and keep things steady and think clearly.",
+            "label": "I solve it smartly and stay calm.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would explore and figure out what is going on and add a fun idea to cheer people up.",
+            "label": "I look for clues and cheer everyone up.",
             "traitDeltas": {
               "curious": 1,
               "playful": 1
@@ -1698,28 +1698,28 @@
         "prompt": "A small deer gets separated from its herd near the trail. What do you do?",
         "answers": [
           {
-            "label": "I would set a big goal and go for it and go first even if it feels scary.",
+            "label": "I do my best and am brave.",
             "traitDeltas": {
               "ambitious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would use my brain to fix the problem and take a deep breath and stay calm.",
+            "label": "I solve it smartly and stay calm.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would choose the kindest thing to do and stick with my friends the whole time.",
+            "label": "I am kind and do not leave anyone.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would add a fun idea to cheer people up and ask lots of questions to find clues.",
+            "label": "I make it fun and look for clues.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -1732,28 +1732,28 @@
         "prompt": "A younger kid asks you to coach them for their first animal facts game. How do you help?",
         "answers": [
           {
-            "label": "I would ask lots of questions to find clues and be brave and step in right away.",
+            "label": "I explore first and go first.",
             "traitDeltas": {
               "curious": 2,
               "brave": 1
             }
           },
           {
-            "label": "I would make a smart plan first and slow down so nobody panics.",
+            "label": "I think it through and keep things steady.",
             "traitDeltas": {
               "clever": 2,
               "calm": 1
             }
           },
           {
-            "label": "I would stick with my friends the whole time and be gentle and make sure everyone is okay.",
+            "label": "I stay with my team and am kind.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would turn it into a fun challenge and explore and figure out what is going on.",
+            "label": "I cheer everyone up and ask questions.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
@@ -1766,28 +1766,28 @@
         "prompt": "Your group's supplies are limited for the final build challenge. What do you focus on?",
         "answers": [
           {
-            "label": "I would think of a clever way to solve it and set a big goal and go for it.",
+            "label": "I think it through and go for a big win.",
             "traitDeltas": {
               "clever": 2,
               "ambitious": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and look closely for secret hints.",
+            "label": "I make it fun and look for clues.",
             "traitDeltas": {
               "playful": 2,
               "curious": 1
             }
           },
           {
-            "label": "I would be gentle and make sure everyone is okay and stay by my team and help them finish.",
+            "label": "I check on friends and stay with my team.",
             "traitDeltas": {
               "kind": 2,
               "loyal": 1
             }
           },
           {
-            "label": "I would keep it playful so everyone enjoys it and choose the kindest thing to do.",
+            "label": "I keep it playful and check on friends.",
             "traitDeltas": {
               "kind": 1,
               "playful": 2
@@ -1800,28 +1800,28 @@
         "prompt": "At the closing picnic, the team chooses one way to celebrate and support each other. What do you pick?",
         "answers": [
           {
-            "label": "I would protect everyone and take the lead and turn it into a fun challenge.",
+            "label": "I go first and keep it playful.",
             "traitDeltas": {
               "brave": 2,
               "playful": 1
             }
           },
           {
-            "label": "I would keep things steady and think clearly and make a smart plan first.",
+            "label": "I keep things steady and make a smart plan.",
             "traitDeltas": {
               "calm": 2,
               "clever": 1
             }
           },
           {
-            "label": "I would stay by my team and help them finish and help someone who needs me.",
+            "label": "I back my friends and check on friends.",
             "traitDeltas": {
               "loyal": 2,
               "kind": 1
             }
           },
           {
-            "label": "I would set a big goal and go for it and ask lots of questions to find clues.",
+            "label": "I do my best and look for clues.",
             "traitDeltas": {
               "ambitious": 2,
               "curious": 1
